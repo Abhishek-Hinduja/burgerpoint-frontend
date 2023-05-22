@@ -36,7 +36,7 @@ const About = () => {
 
             <p>
               I am Abhishek, the founder of MBA Burger Wala. Affiliated to
-              God Taste...
+              God Taste..
             </p>
           </article>
         </div>
