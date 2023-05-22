@@ -31,11 +31,11 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Abhishek Singh</h3>
+              <h3>Abhishek</h3>
             </div>
 
             <p>
-              I am Abhishek Singh, the founder of MBA Burger Wala. Affiliated to
+              I am Abhishek, the founder of MBA Burger Wala. Affiliated to
               God Taste...
             </p>
           </article>
